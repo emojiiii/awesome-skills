@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dota 2 Arcade Abilities And Items"
+  short_description: "Build abilities, items, and modifiers"
+  default_prompt: "Use $dota2-arcade-abilities-items to implement or debug this custom ability, item, modifier, or ability KV."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dota 2 Arcade Project Setup"
+  short_description: "Set up TypeScript addon projects"
+  default_prompt: "Use $dota2-arcade-project-setup to inspect or set up this Dota 2 Arcade addon with a TypeScript-first workflow."

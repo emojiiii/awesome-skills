@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dota 2 Arcade Units And Heroes"
+  short_description: "Build custom heroes and units"
+  default_prompt: "Use $dota2-arcade-units-heroes to implement or debug this custom hero, unit, summon, boss, or NPC KV."

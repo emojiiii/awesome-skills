@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dota 2 Arcade Debugging"
+  short_description: "Debug Dota 2 Arcade addon issues"
+  default_prompt: "Use $dota2-arcade-debugging to diagnose this Dota 2 Arcade build, runtime, UI, Lua, TypeScript, KV, or asset issue."

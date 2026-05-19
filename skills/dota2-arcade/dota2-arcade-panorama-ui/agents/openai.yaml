@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dota 2 Arcade Panorama UI"
+  short_description: "Build Panorama UI for Dota addons"
+  default_prompt: "Use $dota2-arcade-panorama-ui to implement or debug this Dota 2 custom game Panorama UI."

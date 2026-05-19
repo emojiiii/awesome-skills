@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dota 2 Arcade Networking"
+  short_description: "Sync Panorama and VScript state"
+  default_prompt: "Use $dota2-arcade-networking to implement or debug communication between Dota 2 VScripts and Panorama."

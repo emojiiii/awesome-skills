@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dota 2 Arcade Assets And Content"
+  short_description: "Manage Dota addon content assets"
+  default_prompt: "Use $dota2-arcade-assets-content to implement or debug this Dota 2 custom game asset, path, particle, model, sound, map, or content issue."

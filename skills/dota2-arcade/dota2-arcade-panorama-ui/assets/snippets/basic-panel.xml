@@ -1,0 +1,5 @@
+<root>
+  <Panel id="CustomHudRoot" class="custom-hud-root">
+    <Label id="CustomHudTitle" class="custom-hud-title" text="Custom HUD" />
+  </Panel>
+</root>

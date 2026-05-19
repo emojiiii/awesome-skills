@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dota 2 Arcade VScripts"
+  short_description: "Build TypeScript gameplay scripts"
+  default_prompt: "Use $dota2-arcade-vscripts to implement or debug this Dota 2 custom game server-side gameplay logic."

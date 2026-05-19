@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dota 2 Arcade Doc Research"
+  short_description: "Find reliable Dota 2 Arcade docs"
+  default_prompt: "Use $dota2-arcade-doc-research to find the right Dota 2 Arcade documentation and summarize the implementation guidance with source links."
