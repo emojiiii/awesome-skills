@@ -1,0 +1,14 @@
+{
+  "content_hash": "65ffb2d84cc3441826fefc46bd377ae71443a69402274ce60d4103ac8bcfe50e",
+  "verdict": "safe",
+  "summary": "该技能仅包含 Dota 2 自定义游戏资产管理和路径约定的说明性文本，没有可执行命令、网络请求或文件操作，完全安全。",
+  "findings": [
+    {
+      "severity": "info",
+      "detail": "技能内容为纯知识指导，不包含任何自动执行的命令或脚本，对用户无风险。"
+    }
+  ],
+  "reviewed_at": "2026-06-01T14:31:51.891Z",
+  "reviewed_by": "@emojiiii",
+  "model": "deepseek-v4-flash"
+}
