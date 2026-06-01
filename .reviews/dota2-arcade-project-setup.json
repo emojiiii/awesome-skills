@@ -1,0 +1,9 @@
+{
+  "content_hash": "89ca3a566f5ab73e218fb65752eda8e8acea653086808cbac03d313215035869",
+  "verdict": "safe",
+  "summary": "该技能仅提供Dota 2 Arcade项目设置的文本指导和结构检查脚本，所有内容均为静态说明和本地文件检查，无任何网络请求、数据泄露、系统修改或执行不可信代码的风险。",
+  "findings": [],
+  "reviewed_at": "2026-06-01T14:32:12.074Z",
+  "reviewed_by": "@emojiiii",
+  "model": "deepseek-v4-flash"
+}
