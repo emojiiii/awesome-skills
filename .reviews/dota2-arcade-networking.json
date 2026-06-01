@@ -1,0 +1,9 @@
+{
+  "content_hash": "d76b47537da78bf2ee59d69ac45c2abee8118c4146d23dbea09948f1600020f3",
+  "verdict": "safe",
+  "summary": "该技能仅提供Dota 2 Arcade游戏网络通信的编程指导和类型定义示例，不包含任何可执行命令、网络请求或系统修改，内容完全静态且无害。",
+  "findings": [],
+  "reviewed_at": "2026-06-01T07:14:08.197Z",
+  "reviewed_by": "@emojiiii",
+  "model": "deepseek-v4-flash"
+}
