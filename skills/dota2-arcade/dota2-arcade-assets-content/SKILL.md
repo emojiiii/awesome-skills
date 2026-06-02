@@ -1,20 +1,21 @@
 ---
 name: dota2-arcade-assets-content
 description: Handle Dota 2 Arcade asset and content work including particles, models, materials, textures, sounds, maps, minimap icons, Panorama resources, file paths, content/game separation, and packaging references. Use when custom game behavior depends on non-code assets or asset paths.
+version: 0.0.1
 ---
 
 # Dota 2 Arcade Assets And Content
 
 ## Overview
 
-Use this skill for Dota 2 `content` and asset pipeline issues. Keep content authoring assets distinct from runtime `game` scripts and KV files.
+Use this skill for Dota 2 `content` and asset pipeline issues. Keep content authoring assets distinct from runtime `game` scripts and KV files.11111
 
 ## File Scope
 
-- `content/`: source-side maps, models, materials, particles, sounds, and Panorama resources.
-- `game/`: runtime scripts, KV, compiled scripts, and files loaded by the game.
-- `content/panorama`: XML, CSS, images, and UI resources.
-- `game/scripts/npc`: KV references to models, particles, sounds, icons, and abilities.
+* `content/`: source-side maps, models, materials, particles, sounds, and Panorama resources.
+* `game/`: runtime scripts, KV, compiled scripts, and files loaded by the game.
+* `content/panorama`: XML, CSS, images, and UI resources.
+* `game/scripts/npc`: KV references to models, particles, sounds, icons, and abilities.
 
 ## Workflow
 
@@ -27,11 +28,11 @@ Use this skill for Dota 2 `content` and asset pipeline issues. Keep content auth
 
 ## Asset Types
 
-- Particles: verify particle file path, control points, attachment points, cleanup, and precache.
-- Models/materials: verify model path, material dependencies, hitboxes, animations, and unit KV references.
-- Sounds: verify sound event definitions and script/KV playback path.
-- Maps: verify map name, launch command, Hammer source, and addon packaging.
-- Panorama resources: verify XML/CSS/image paths under `content/panorama`.
+* Particles: verify particle file path, control points, attachment points, cleanup, and precache.
+* Models/materials: verify model path, material dependencies, hitboxes, animations, and unit KV references.
+* Sounds: verify sound event definitions and script/KV playback path.
+* Maps: verify map name, launch command, Hammer source, and addon packaging.
+* Panorama resources: verify XML/CSS/image paths under `content/panorama`.
 
 ## Documentation
 
