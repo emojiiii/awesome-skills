@@ -1,14 +1,14 @@
 ---
 name: dota2-arcade-assets-content
 description: Handle Dota 2 Arcade asset and content work including particles, models, materials, textures, sounds, maps, minimap icons, Panorama resources, file paths, content/game separation, and packaging references. Use when custom game behavior depends on non-code assets or asset paths.
-version: 0.0.1
+version: 0.0.2
 ---
 
 # Dota 2 Arcade Assets And Content
 
 ## Overview
 
-Use this skill for Dota 2 `content` and asset pipeline issues. Keep content authoring assets distinct from runtime `game` scripts and KV files.11111
+Use this skill for Dota 2 `content` and asset pipeline issues. Keep content authoring assets distinct from runtime `game` scripts and KV files.
 
 ## File Scope
 
